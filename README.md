@@ -97,7 +97,7 @@ git checkout -b feature/your-feature
 Open a pull request to share your work with the community and contribute to the Morley project!
 
 ## 💡 License
-This project is licensed under the **MIT License**. Feel free to use and adapt **Morley** to your needs while crediting the original authors.
+This project is licensed under the **APACHE 2.0 License**. Feel free to use and adapt **Morley** to your needs while crediting the original authors.
 
 ## 🌐 Stay Connected
 - **Website**: [morleylang.org](https://morleylang.org)  
